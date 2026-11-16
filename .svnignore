@@ -1,5 +1,0 @@
-*.o
-build
-discover
-.vscode
-tests/autogen
