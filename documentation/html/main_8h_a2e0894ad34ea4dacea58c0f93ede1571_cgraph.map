@@ -1,0 +1,7 @@
+<map id="play_server" name="play_server">
+<area shape="rect" id="Node000001" title="Démarrer la partie en mode serveur." alt="" coords="5,31,104,56"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#abe0e114613c7a95eec5eb55ecf2d4597" title="Ferme proprement la connexion serveur." alt="" coords="152,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,32,138,27,139,32,104,38"/>
+<area shape="rect" id="Node000003" href="$server_8c.html#ac4a9039122b6a31d293b3d6e0a02b610" title="Initialise le serveur, l&#39;attache au port spécialisé et attend une connexion client." alt="" coords="159,55,249,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,49,146,55,145,61,104,54"/>
+</map>

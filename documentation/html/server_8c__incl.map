@@ -1,0 +1,21 @@
+<map id="server.c" name="server.c">
+<area shape="rect" id="Node000001" title="Implementation des fonctions de gestion du serveur réseau pour le jeu Krojanty." alt="" coords="386,5,459,31"/>
+<area shape="rect" id="Node000002" href="$server_8h.html" title="Déclarations pour la gestion du serveur réseau du jeu Krojanty." alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,28,94,81,93,76,385,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,79,171,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,31,185,81,184,76,385,26"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,79,266,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,33,276,76,274,71,391,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,79,361,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="409,33,354,72,351,68,405,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="385,79,460,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="425,31,425,65,420,65,420,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="485,79,577,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,28,503,69,500,73,439,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="601,79,703,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="460,28,602,72,601,77,459,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="728,79,824,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="460,24,715,75,714,80,459,29"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="849,79,917,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="460,21,619,41,836,76,835,81,618,46,459,26"/>
+</map>

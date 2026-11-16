@@ -1,0 +1,200 @@
+# Krojanty
+
+![Krojanty Logo](documentation/Krojanty.png)  
+*Un projet de jeu de stratégie en C avec interface graphique GTK, IA, et réseau.*
+
+---
+
+## Sommaire
+
+- [Présentation](#présentation)
+- [Fonctionnalités](#fonctionnalités)
+- [Installation](#installation)
+- [Compilation](#compilation)
+- [Utilisation](#utilisation)
+- [Modes de jeu](#modes-de-jeu)
+- [Tests et couverture](#tests-et-couverture)
+- [Documentation](#documentation)
+- [Architecture du projet](#architecture-du-projet)
+- [Contribuer](#contribuer)
+- [Auteurs](#auteurs)
+
+---
+
+## Présentation
+
+**Krojanty** est un jeu de plateau stratégique développé en C, inspiré des échecs et du jeu de dames, avec :
+
+- Une interface graphique moderne (GTK)
+- Un mode IA (joueur contre ordinateur)
+- Un mode réseau (client/serveur)
+- Un moteur de jeu robuste et modulaire
+- Une suite de tests automatisés et une couverture de code
+- Une documentation générée automatiquement
+
+---
+
+## Fonctionnalités
+
+- **Plateau 9x9** avec différentes pièces et règles personnalisées
+- **IA configurable** (profondeur, heuristique, etc.)
+- **Jeu local** (2 joueurs ou contre l’IA)
+- **Jeu en réseau** (mode serveur et client)
+- **Interface graphique** (GTK3/GTK4)
+- **Tests unitaires** et batchs automatisés
+- **Couverture de code** (LCOV)
+- **Documentation Doxygen**
+- **Paramétrage facile** via la ligne de commande
+
+---
+
+## Installation
+
+### Prérequis
+
+- **Linux** (testé sur Ubuntu/Debian)
+- **GTK3** ou **GTK4**
+- **gcc** (ou clang)
+- **make**
+- (optionnel) **lcov** pour la couverture
+- (optionnel) **doxygen** pour la documentation
+
+### Dépendances
+
+```sh
+sudo apt-get install build-essential libgtk-3-dev lcov doxygen
+```
+
+---
+
+## Compilation
+
+```sh
+make
+```
+
+note: le warning: ‘G_APPLICATION_FLAGS_NONE’ peut apparaitre, mais nous décidons de maintenir ce flag pour la compatibilité avec d'anciennes versions, n'en tenez pas compte.
+
+Pour générer la documentation :
+
+```sh
+make docs
+```
+
+---
+
+## Utilisation
+
+### Lancer le jeu
+
+```sh
+./game [options]
+```
+note: game est un lien symbolique vers **build/krojanty-ihm**. Si besoin ajoutez la permission d'execution:
+
+```sh
+ chmod +x build/krojanty-ihm
+ ```
+
+#### Options principales
+
+- `-l` : Mode local (2 joueurs)
+- `-l -ia` : Mode local contre l’IA
+- `-s PORT [-ia]` : Mode serveur sur le port donné (avec ou sans IA)
+- `-c IP:PORT [-ia]` : Mode client, connexion à un serveur (avec ou sans IA)
+
+#### Exemples
+
+- Jouer localement :  
+  `./krojanty-ihm -l`
+- Jouer contre l’IA :  
+  `./krojanty-ihm -l -ia`
+- Lancer un serveur IA sur le port 1234 :  
+  `./krojanty-ihm -s 1234 -ia`
+- Se connecter à un serveur en tant que client IA :  
+  `./krojanty-ihm -c 127.0.0.1:1234 -ia`
+
+---
+
+## Modes de jeu
+
+- **Local** : 2 joueurs sur la même machine ou contre l’IA
+- **Serveur** : héberge une partie, attend un client
+- **Client** : se connecte à un serveur distant
+- **IA** : peut être activée côté serveur, client ou local
+
+---
+
+## Tests et couverture
+
+### Lancer les tests
+
+```sh
+make tests
+```
+
+Accédez ensuite avec votre navigateur à la page **documentation/rapport_de_couverture/index.html**
+
+### Nettoyer les fichiers de test
+
+```sh
+make clean_tests
+```
+
+---
+
+## Documentation
+
+### Générer la documentation Doxygen
+
+```sh
+make docs
+```
+
+Accédez ensuite avec votre navigateur à la page **documentation/html/index.html**.
+
+### Nettoyer la documentation
+
+```sh
+make clean_docs
+```
+
+---
+
+## Architecture du projet
+
+```
+Krojanty/
+├── src/           # Sources principales (game, main, ai, ui, client, server)
+├── tests/         # Tests unitaires
+├── documentation/ # Rapport de couverture, doc Doxygen
+├── install.sh	   # Batch d'installation debian
+├── Makefile
+└── README
+```
+
+### Fichiers principaux
+
+- `src/game.c` : logique du jeu
+- `src/ai.c` : intelligence artificielle
+- `src/ui.c` : interface graphique
+- `src/client.c` / `src/server.c` : réseau
+- `src/main.c` : point d’entrée, parsing des arguments
+
+---
+
+## Auteurs
+
+- Sofiane Bouguerri — [sofiane.bouguerri@uha.fr](mailto:sofiane.bouguerri@uha.fr)
+- Hadil Abahmane — [hadil.abahmane@uha.fr](mailto:hadil.abahmane@uha.fr)
+- Kylian Adam — [kylian.adam@uha.fr](mailto:kylian_adam@uha.fr)
+- Baptiste Garnier — [baptiste.garnier@uha.fr](mailto:baptiste.garnier@uha.fr)
+- Mael Lefebvre — [mael.lefebvre@uha.fr](mailto:mael.lefebvre@uha.fr)
+- Becker Obie-Obolo — [becker.obie-obolo@uha.fr](mailto:becker.obie-obolo@uha.fr)
+- Yan Thenlot — [yan.thenlot@uha.fr](mailto:yan.thenlot@uha.fr)
+
+---
+
+**Bon jeu !**
+
+

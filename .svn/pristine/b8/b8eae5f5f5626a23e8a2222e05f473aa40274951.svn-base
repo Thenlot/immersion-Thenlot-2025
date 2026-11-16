@@ -1,0 +1,22 @@
+<map id="ai.c" name="ai.c">
+<area shape="rect" id="Node000001" title="Implémentation de l&#39;Intelligence Artificielle pour le jeu Krojanty." alt="" coords="281,5,327,31"/>
+<area shape="rect" id="Node000002" href="$ai_8h.html" title="Interface de l&#39;Intelligence Artificielle pour le jeu Krojanty." alt="" coords="59,79,106,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,29,120,81,118,76,280,24"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="131,79,197,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="283,33,200,75,198,70,280,28"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="222,79,293,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="299,32,275,69,270,66,294,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="317,79,387,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="314,30,339,66,334,69,310,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="412,79,476,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="328,28,410,70,408,75,325,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="501,79,571,104"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="327,24,488,73,486,78,326,29"/>
+<area shape="rect" id="Node000003" href="$game_8h.html" title="Définitions des types et structures pour le jeu Krojanty." alt="" coords="85,152,155,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,103,110,139,105,141,86,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,88,251"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="82,105,55,213,50,211,77,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,180,70,218,67,214,106,176"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="112,225,187,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="127,177,142,212,137,214,122,179"/>
+</map>

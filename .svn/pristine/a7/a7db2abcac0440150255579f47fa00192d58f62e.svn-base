@@ -1,0 +1,5 @@
+<map id="ui_destroy" name="ui_destroy">
+<area shape="rect" id="Node000001" title="Libère la mémoire associée à une structure UIState." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="Node000002" href="$ui_8c.html#afe666c890dbd98efdb8c61ce5da26b94" title="Efface toutes les indications de coups possibles (move hints)." alt="" coords="144,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,15,130,15,130,21,96,21"/>
+</map>

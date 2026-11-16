@@ -1,0 +1,9 @@
+<map id="send_message" name="send_message">
+<area shape="rect" id="Node000001" title="Envoie un message de taille fixe (4octets) au client." alt="" coords="5,55,124,80"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#abe0e114613c7a95eec5eb55ecf2d4597" title="Ferme proprement la connexion serveur." alt="" coords="177,5,281,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,52,172,32,174,37,108,57"/>
+<area shape="rect" id="Node000003" href="$server_8c.html#a0606c3ca75ce09ca03739dc970ebccbf" title="Vérifie si le client connecté sur le socket est toujours en vie." alt="" coords="172,55,287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,65,158,65,158,70,124,70"/>
+<area shape="rect" id="Node000004" href="$server_8c.html#ac4a9039122b6a31d293b3d6e0a02b610" title="Initialise le serveur, l&#39;attache au port spécialisé et attend une connexion client." alt="" coords="184,104,275,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,77,174,97,172,102,107,83"/>
+</map>

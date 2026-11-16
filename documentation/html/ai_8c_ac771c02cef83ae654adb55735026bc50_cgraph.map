@@ -1,0 +1,20 @@
+<map id="ai_quiescence_search" name="ai_quiescence_search">
+<area shape="rect" id="Node000001" title="Recherche quiescente pour évaluer les positions tactiquement stables." alt="" coords="5,153,169,179"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="53,155,46,145,50,135,64,129,87,127,116,130,128,139,124,144,114,135,87,132,65,134,53,139,51,144,57,152"/>
+<area shape="rect" id="Node000002" href="$ai_8c.html#aafd428843da1ed2d3a81d7476b05370f" title="Appliquer un coup à l&#39;état de jeu." alt="" coords="235,55,357,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,151,155,121,216,89,234,82,236,87,218,94,158,125,109,155"/>
+<area shape="rect" id="Node000005" href="$ai_8c.html#a381172ae2ffce160b49163c5dda6a6ff" title="Évalue complètement une position." alt="" coords="217,104,375,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,151,228,130,229,135,142,156"/>
+<area shape="rect" id="Node000007" href="$ai_8c.html#a831ac5a739c62d740963f2484e0730c8" title="Génèrer tous les coups possibles pour un joueur." alt="" coords="221,153,371,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="169,163,206,163,206,169,169,169"/>
+<area shape="rect" id="Node000008" href="$ai_8c.html#a865330a23bc04a765d6e279d17583c4b" title="Vérifier si un coup est tactique (capture ou victoire)" alt="" coords="221,203,371,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="142,176,229,197,228,202,141,181"/>
+<area shape="rect" id="Node000009" href="$ai_8c.html#ad87237c84c178c0f02e7723222b5bf6e" title="Ordonner les coups par score décroissant." alt="" coords="233,252,359,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="109,177,158,207,218,238,236,245,234,250,216,243,155,211,106,181"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#acb82dfc3a8d64fd4376b9e06b23e63b9" title="Vérifie si des coordonnées sont dans les limites du plateau." alt="" coords="431,5,563,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,52,430,31,432,37,349,57"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a0cf396840b8e20a6c8a4dfe06e49e0b8" title="Retourne le propriétaire d&#39;une pièce." alt="" coords="423,55,571,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,65,409,65,409,70,357,70"/>
+<area shape="rect" id="Node000006" href="$ai_8c.html#a94f83b9759668e3963ead8ff4629014d" title="Vérifier si on est en phase de fin de partie." alt="" coords="437,104,557,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="375,114,423,114,423,119,375,119"/>
+</map>

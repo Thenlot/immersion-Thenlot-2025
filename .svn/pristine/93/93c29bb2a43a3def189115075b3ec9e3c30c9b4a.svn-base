@@ -1,0 +1,9 @@
+<map id="client_receive_message" name="client_receive_message">
+<area shape="rect" id="Node000001" title="Reçoit un message de taille fixe (4octets) du serveur." alt="" coords="5,55,184,80"/>
+<area shape="rect" id="Node000002" href="$client_8c.html#ab2805eae7bc42cf36b4016a7955ca155" title="Ferme proprement la connexion client." alt="" coords="243,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,52,229,31,230,36,147,57"/>
+<area shape="rect" id="Node000003" href="$client_8c.html#a6916a56cc95dd16931280ba89e8e51b0" title="Initialise le client et connecte au serveur." alt="" coords="249,55,335,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,65,235,65,235,70,184,70"/>
+<area shape="rect" id="Node000004" href="$client_8c.html#ab3c45e64d687b65e62e1094cf9d049d4" title="Vérifie si la connexion au serveur est toujours active." alt="" coords="232,104,352,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,77,228,98,227,103,145,83"/>
+</map>

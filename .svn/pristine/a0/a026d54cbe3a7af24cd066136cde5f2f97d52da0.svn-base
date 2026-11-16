@@ -1,0 +1,5 @@
+<map id="AI_GameState" name="AI_GameState">
+<area shape="rect" id="Node000001" title="État de jeu simplifié pour l&#39;IA." alt="" coords="5,93,120,119"/>
+<area shape="rect" id="Node000002" href="$structSquare.html" title="Structure représentant une case du plateau de jeu." alt="" coords="29,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,45,65,93,60,93,60,45"/>
+</map>

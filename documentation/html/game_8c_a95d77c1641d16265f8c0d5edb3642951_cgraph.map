@@ -1,0 +1,9 @@
+<map id="game_apply_linca" name="game_apply_linca">
+<area shape="rect" id="Node000001" title="Applique les captures LINCA après un mouvement." alt="" coords="5,55,145,80"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#ad7d76fcd7ac718b61f2c1c389c817a91" title="Convertit des coordonnées en chainede caractères." alt="" coords="194,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,52,203,32,204,37,126,57"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#acb82dfc3a8d64fd4376b9e06b23e63b9" title="Vérifie si des coordonnées sont dans les limites du plateau." alt="" coords="201,55,333,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,65,188,65,188,70,146,70"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a0cf396840b8e20a6c8a4dfe06e49e0b8" title="Retourne le propriétaire d&#39;une pièce." alt="" coords="193,104,341,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,77,204,98,203,103,125,83"/>
+</map>

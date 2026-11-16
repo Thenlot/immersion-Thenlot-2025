@@ -1,0 +1,5 @@
+<map id="ui_show_selection" name="ui_show_selection">
+<area shape="rect" id="Node000001" title="Met en évidence une case comme étant sélectionnée." alt="" coords="5,5,147,31"/>
+<area shape="rect" id="Node000002" href="$ui_8c.html#a672cb2f0729f586f1a7e0453fcd8b4b0" title="Supprime la sélection en cours (s’il y en a une)." alt="" coords="195,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,15,181,15,181,21,147,21"/>
+</map>
