@@ -1,7 +1,0 @@
-<map id="play_client" name="play_client">
-<area shape="rect" id="Node000001" title="Lance une partie en mode client." alt="" coords="5,31,99,56"/>
-<area shape="rect" id="Node000002" href="$client_8c.html#ab2805eae7bc42cf36b4016a7955ca155" title="Ferme proprement la connexion client." alt="" coords="147,5,245,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,33,133,26,134,32,99,38"/>
-<area shape="rect" id="Node000003" href="$client_8c.html#a6916a56cc95dd16931280ba89e8e51b0" title="Initialise le client et connecte au serveur." alt="" coords="153,55,239,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,48,140,55,139,61,98,54"/>
-</map>

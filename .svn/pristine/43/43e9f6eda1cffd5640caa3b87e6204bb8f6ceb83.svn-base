@@ -1,7 +1,0 @@
-<map id="game_can_seultou" name="game_can_seultou">
-<area shape="rect" id="Node000001" title="Vérifie si un mouvement SEULTOU est possible." alt="" coords="5,31,149,56"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#acb82dfc3a8d64fd4376b9e06b23e63b9" title="Vérifie si des coordonnées sont dans les limites du plateau." alt="" coords="205,5,337,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,31,192,26,192,31,150,37"/>
-<area shape="rect" id="Node000003" href="$game_8c.html#a0cf396840b8e20a6c8a4dfe06e49e0b8" title="Retourne le propriétaire d&#39;une pièce." alt="" coords="197,55,345,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,50,184,54,183,59,149,55"/>
-</map>

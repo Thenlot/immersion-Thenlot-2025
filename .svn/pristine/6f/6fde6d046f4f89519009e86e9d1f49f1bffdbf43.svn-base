@@ -1,5 +1,0 @@
-<map id="AI_TranspositionEntry" name="AI_TranspositionEntry">
-<area shape="rect" id="Node000001" title="Entrée de la table de transposition." alt="" coords="5,93,168,119"/>
-<area shape="rect" id="Node000002" href="$structAI__Move.html" title="Structure représentant un coup de l&#39;IA." alt="" coords="47,5,126,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,93,84,93,84,45"/>
-</map>

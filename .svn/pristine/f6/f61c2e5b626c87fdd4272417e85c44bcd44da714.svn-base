@@ -1,5 +1,0 @@
-<map id="GameState" name="GameState">
-<area shape="rect" id="Node000001" title="Structure représentant l&#39;état complet du jeu." alt="" coords="5,93,100,119"/>
-<area shape="rect" id="Node000002" href="$structSquare.html" title="Structure représentant une case du plateau de jeu." alt="" coords="19,5,86,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,45,55,93,50,93,50,45"/>
-</map>

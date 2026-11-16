@@ -1,7 +1,0 @@
-<map id="AI_Context" name="AI_Context">
-<area shape="rect" id="Node000001" title="Contexte global de l&#39;IA." alt="" coords="40,181,133,207"/>
-<area shape="rect" id="Node000002" href="$structAI__TranspositionEntry.html" title="Entrée de la table de transposition." alt="" coords="5,93,168,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,133,89,181,84,181,84,133"/>
-<area shape="rect" id="Node000003" href="$structAI__Move.html" title="Structure représentant un coup de l&#39;IA." alt="" coords="47,5,126,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,89,93,84,93,84,45"/>
-</map>

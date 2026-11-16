@@ -1,8 +1,0 @@
-<map id="validate_ip_port" name="validate_ip_port">
-<area shape="rect" id="Node000001" title="Valide une chaine de type IP:Port." alt="" coords="5,5,132,31"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#a3b98baaba5ff8aefb432c16a3eed0611" title="Vérifie qu&#39;une chaine est strictement composée de chiffres." alt="" coords="323,5,413,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,309,15,309,21,132,21"/>
-<area shape="rect" id="Node000003" href="$game_8c.html#a6ba0bd3dad4ead74c2f1f7d60dfb37d2" title="Controle basiquement le format d&#39;une adresse IPv4." alt="" coords="180,31,275,56"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,25,167,31,166,36,132,31"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="275,32,309,26,310,31,275,37"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="game_init" name="game_init">
-<area shape="rect" id="Node000001" title="Initialise l&#39;état du jeu." alt="" coords="5,31,92,56"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#a0cf396840b8e20a6c8a4dfe06e49e0b8" title="Retourne le propriétaire d&#39;une pièce." alt="" coords="146,5,294,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,34,132,28,133,34,93,40"/>
-<area shape="rect" id="Node000003" href="$game_8c.html#ade0875f0f73e20f1c7a49dc5cd7660d7" title="Met à jour les scores des joueurs." alt="" coords="140,55,300,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,47,127,52,126,57,92,52"/>
-</map>

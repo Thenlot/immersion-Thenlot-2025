@@ -1,7 +1,0 @@
-<map id="UIState" name="UIState">
-<area shape="rect" id="Node000001" title="État principal de l&#39;interface utilisateur." alt="" coords="83,93,154,119"/>
-<area shape="rect" id="Node000002" href="$structUICallbacks.html" title="Callbacks pour communication avec le moteur de jeu." alt="" coords="5,5,104,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,41,90,68,110,91,106,95,86,71,67,44"/>
-<area shape="rect" id="Node000003" href="$structConfettiState.html" title="État global des confettis pour l&#39;animation de victoire." alt="" coords="129,5,237,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,45,155,71,133,95,129,91,151,68,168,42"/>
-</map>

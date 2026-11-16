@@ -1,5 +1,0 @@
-<map id="ui_refresh_panel" name="ui_refresh_panel">
-<area shape="rect" id="Node000001" title="Met à jour l’affichage du panneau latéral (profil, tours, statut)." alt="" coords="5,5,136,31"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#a53422c7f8531db22074617a15e090d4e" title="Retourne le nom d&#39;un joueur." alt="" coords="184,5,335,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,15,170,15,170,21,136,21"/>
-</map>

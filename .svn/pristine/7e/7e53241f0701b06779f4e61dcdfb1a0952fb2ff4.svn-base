@@ -1,5 +1,0 @@
-<map id="game_check_victory_conditions" name="game_check_victory_conditions">
-<area shape="rect" id="Node000001" title="Vérifie les conditions de victoire." alt="" coords="5,5,161,45"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#ade0875f0f73e20f1c7a49dc5cd7660d7" title="Met à jour les scores des joueurs." alt="" coords="209,13,369,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,23,196,23,196,28,162,28"/>
-</map>

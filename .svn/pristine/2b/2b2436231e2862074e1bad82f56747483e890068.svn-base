@@ -1,7 +1,0 @@
-<map id="server.h" name="server.h">
-<area shape="rect" id="Node000001" title="Déclarations pour la gestion du serveur réseau du jeu Krojanty." alt="" coords="51,5,126,31"/>
-<area shape="rect" id="Node000002" href="$game_8c.html" title="Implémentation principale de la logique du jeu Krojanty." alt="" coords="5,79,76,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,44,51,80,46,77,71,41"/>
-<area shape="rect" id="Node000003" href="$server_8c.html" title="Implementation des fonctions de gestion du serveur réseau pour le jeu Krojanty." alt="" coords="100,79,173,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,41,131,77,127,80,102,44"/>
-</map>

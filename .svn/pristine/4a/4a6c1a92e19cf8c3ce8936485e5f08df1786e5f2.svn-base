@@ -1,5 +1,0 @@
-<map id="ui_show_victory" name="ui_show_victory">
-<area shape="rect" id="Node000001" title="Affiche l&#39;écran de victoire." alt="" coords="5,5,132,31"/>
-<area shape="rect" id="Node000002" href="$game_8c.html#a53422c7f8531db22074617a15e090d4e" title="Retourne le nom d&#39;un joueur." alt="" coords="180,5,331,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
-</map>
