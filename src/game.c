@@ -1320,12 +1320,10 @@ static void *ai_thread_func(void *arg) {
     g_free(args);
 
     GameState snapshot = app->game;
-    Square board[BOARD_SIZE][BOARD_SIZE];
-    appstate_to_ai_board(snapshot.board, board);
 
     Player ai_player = ai_controlled_player(app);
     AI_Move best = {0};
-    bool has_move = ai_choose_best_move_from_board(board, (AI_Player)ai_player, &best);
+    bool has_move = ai_choose_best_move(&snapshot, &best);
 
     AIResultTask *task = g_new(AIResultTask, 1);
     task->app = app;
